@@ -1,0 +1,62 @@
+html, body {
+    margin-top: 75px;
+    padding: 0;
+    background-color: black;
+    color:white;
+    font-family: 'Courier';
+    font-size: 9pt;
+    line-height: 12pt;
+    text-align: center;
+  }
+  canvas {
+    display: block;
+  }
+
+  h1{
+    font-family: "ocr-b-std", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40pt;
+    padding: 15px;
+    margin-top: 30px;
+  }
+
+  h4{
+    font-family: "ocr-b-std", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15pt;
+    padding-right: 75px;
+    padding-left: 75px;
+    margin-left: 150px;
+    margin-right: 150px;
+    line-height: 30px;
+  }
+
+  .button{
+    font-family: "ocr-b-std", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20pt;
+    padding: 15px;
+    margin: 60px;
+  }
+
+  button:hover {
+    color: white;
+    background-color: black;
+  }
+
+  a:link {
+    color: yellow;
+    font-style: italic;
+  }
+
+  a:hover {
+    color: cyan;
+  }
+
+  a:visited {
+    color: yellow;
+    font-style: italic;
+  }
